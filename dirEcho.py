@@ -1,3 +1,8 @@
+__author__ = "Andrew Nguyen"
+__copyright__ = "Copyright 2015"
+
+__version__ = "0.2"
+
 import os
 import sys
 
@@ -7,7 +12,8 @@ if userInput[0] == "-":
   print "I will provide help"
 
  elif userInput == "-rm":
-  print "I will just remove the file"
+  print "I will just remove: %s." % sys.argv[2]
+  os.rmdir(sys.argv[2])
 
 elif os.path.exists(sys.argv[1]):
  print "Diretory exists. Deleting Dir"
