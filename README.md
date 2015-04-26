@@ -1,8 +1,8 @@
 Python-Files
 ============
-Author: Andrew Nguyen
-Date: April 26, 2015
-Version: Python 2.7.6
+Author: Andrew Nguyen   
+Date: April 26, 2015   
+Version: Python 2.7.6   
 
 This is where all my python code is located.
 
