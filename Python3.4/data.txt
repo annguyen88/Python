@@ -1,0 +1,11 @@
+hello
+
+test
+
+extractme
+
+etractme asdfdsa  adsfads 
+
+test me
+['This line is super important!\n', 'keep me!\n', 'ALWAYS include this test line']
+extractme adfa ad fadhello
